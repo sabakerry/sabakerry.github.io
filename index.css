@@ -1,0 +1,48 @@
+/**
+ * @Author: mac
+ * @Date:   2021-03-03T23:44:32+02:00
+ * @Last modified by:   mac
+ * @Last modified time: 2021-03-09T00:58:01+02:00
+ */
+
+
+
+h1 {
+text-align: center;
+color: yellow;
+
+}
+h2 {
+text-align: center;
+color: blueviolet;
+
+}
+h3 {
+text-align: center;
+color:white;
+
+}
+ul{
+  list-style-type: square;
+  text-align: center;
+  list-style: inside;
+  color: white;
+}
+a{
+  color:white;
+}
+p {
+  color:white;
+  text-align: center;
+
+}
+div {text-align: center;}
+body{
+  text-align: center;
+background-color: black;
+background-image:url("backgroung.png");
+width: 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
