@@ -1,0 +1,18 @@
+/**
+ * @Author: mac
+ * @Date:   2021-04-27T15:03:17+03:00
+ * @Last modified by:   mac
+ * @Last modified time: 2021-04-27T15:04:21+03:00
+ */
+
+
+
+body{
+  text-align: center;
+background-color: #33CEFF;
+
+width: 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
