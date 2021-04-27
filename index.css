@@ -9,12 +9,12 @@
 
 h1 {
 text-align: center;
-color: yellow;
+color: limegreen;
 
 }
 h2 {
 text-align: center;
-color: blueviolet;
+color: limegreen;
 
 }
 h3 {
@@ -39,7 +39,7 @@ p {
 div {text-align: center;}
 body{
   text-align: center;
-background-color: red;
+background-color: #33CEFF;
 
 width: 100%;
 background-repeat: no-repeat;
